@@ -70,7 +70,7 @@ function PriceCalculator() {
         <h3 style={{ marginTop: "15px" }}>
           Final Price: ₹{finalPrice}
         </h3>
-        <img src="/thumsup.jpg" alt="vaalthukkal" style={{maxWidth:"400px"}}/>
+        <img className="val" src="/thumsup.jpg" alt="vaalthukkal" style={{maxWidth:"400px"}}/>
         </>
       )}
     </div>
